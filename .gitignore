@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Lua / logs / temp
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Local packaging
+dist/
+build/
+release/
+*.zip
