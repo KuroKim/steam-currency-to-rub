@@ -2,7 +2,7 @@
 
 Displays approximate RUB prices next to supported Steam prices in the Steam client and in the in-game overlay.
 
-Originally built for accounts/store pages showing prices in **KZT**, with an additional **RUB** price shown рядом for quick comparison.
+Originally built for accounts/store pages showing prices in **KZT**, with an additional **RUB** price shown next to the original price for quick comparison.
 
 ## What it does
 
